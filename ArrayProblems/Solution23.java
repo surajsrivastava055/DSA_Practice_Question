@@ -1,8 +1,6 @@
 package ArrayProblems;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 // Find the First Repitive Element in the array
 public class Solution23 {
