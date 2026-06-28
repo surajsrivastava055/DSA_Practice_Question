@@ -1,5 +1,7 @@
 package ArrayProblems.BinarySearch;
 
+// Given an sorted array arr and a target nbumber, u need to find out the number 
+//of occurance of that target in arr[] using binary search.
 public class Solution2 {
 
     static int lowerBound(int arr[], int target) {

@@ -1,5 +1,8 @@
 package ArrayProblems.BinarySearch;
 
+// Binary Search alkgorithm
+//In this array u r provided with a sorted array of integers array and a integer target
+//- your task is to implement a binary search algorithm to find the index nof target array.
 public class Solution1 {
 
     static int binarySearch(int arr[], int target) {
