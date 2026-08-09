@@ -1,4 +1,4 @@
-package ArrayList.SinglyLinkedList;
+package LinkedList.SinglyLinkedList;
 
 /**
  * SinglyLinkedList
